@@ -1,0 +1,16 @@
+{
+  "CONTRACT_ADDRESS": "0xcf6e0891cB36065212676F5f328E7E40A3eFf68a",
+  "SCAN_LINK": "https://www.shibariumscan.io/token/0xcf6e0891cB36065212676F5f328E7E40A3eFf68a/token-transfers",
+  "NETWORK": {
+    "NAME": "Shibarium",
+    "SYMBOL": "BONE",
+    "ID": 109
+  },
+  "NFT_NAME": "ShibaPunkz",
+  "SYMBOL": "SPUNK",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "SHOW_BACKGROUND": true
+}
